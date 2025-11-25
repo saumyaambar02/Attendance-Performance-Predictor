@@ -100,9 +100,9 @@ Each module uses CSV storage, keeping the project simple and portable.
 ├── report.py
 ├── predictor.py
 │
-├── students.csv        # auto-created
-├── attendance.csv      # auto-created
-└── marks.csv           # auto-created
+├── students.csv        
+├── attendance.csv      
+└── marks.csv           
 
 
 ---  
